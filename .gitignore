@@ -1,0 +1,11 @@
+.breakpoints
+.cache
+.config
+.lesson
+poetry.lock
+pyproject.toml
+.replit
+replit.nix
+.upm
+venv
+saved_dataframe.csv
